@@ -1,0 +1,35 @@
+{
+  "site": {
+    "title": "Western Voice",
+    "base_url": "https://brndnsmth.github.io",
+    "base_path": "/western-voice",
+    "trailing_slash": false,
+    "favicon": "/western-voice/images/favicon.png",
+    "logo": "/western-voice/images/logo.png",
+    "logo_width": "200",
+    "logo_height": "34",
+    "logo_text": "Western Voice"
+  },
+
+  "settings": {
+    "pagination": 5,
+    "summary_length": 100
+  },
+
+  "metadata": {
+    "meta_author": "Western Voice",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Western Voice"
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "Copyright © 2024"
+  },
+
+  "contactinfo": {
+    "address": "2020 S Ave 8 E, Yuma, AZ 85365",
+    "email": "westernvoice@azwestern.edu",
+    "phone": "(928) 317-6000"
+  }
+}
