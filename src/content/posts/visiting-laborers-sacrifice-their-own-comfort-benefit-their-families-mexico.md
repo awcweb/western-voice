@@ -1,11 +1,11 @@
 ---
 title: "Visiting laborers sacrifice their own comfort for the benefit of their families in Mexico"
 description: "meta description"
-date: 2021-07-08T05:00:00Z
+date: 2021-07-08
 image: "/western-voice/images/posts/farmworker.jpg"
-categories: ["news"]
+categories: ["News"]
 authors: ["Genesis Alvarado"]
-#tags: ["diy", "toy"]
+tags: ["Mexico"]
 draft: false
 ---
 
