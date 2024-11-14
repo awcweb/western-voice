@@ -1,7 +1,7 @@
 ---
 title: What you need to know about Photography
 description: "meta description"
-date: 2022-04-03T06:00:00+00:00
+date: 2020-04-03T06:00:00+00:00
 image: "/western-voice/images/posts/03.jpg"
 categories: ["art"]
 authors: ["Mark Dinn"]
