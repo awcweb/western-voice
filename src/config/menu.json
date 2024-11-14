@@ -13,31 +13,8 @@
       "url": "/western-voice/contact"
     },
     {
-      "name": "Pages",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Authors",
-          "url": "/western-voice/authors"
-        },
-        {
-          "name": "Categories",
-          "url": "/western-voice/categories"
-        },
-        {
-          "name": "Tags",
-          "url": "/western-voice/tags"
-        },
-        {
-          "name": "Elements",
-          "url": "/western-voice/elements"
-        },
-        {
-          "name": "Privacy Policy",
-          "url": "/western-voice/privacy-policy"
-        }
-      ]
+      "name": "Categories",
+      "url": "/western-voice/categories"
     }
   ],
   "footer": [
