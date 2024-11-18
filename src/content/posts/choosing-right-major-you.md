@@ -1,0 +1,35 @@
+---
+title: "Choosing the Right Major for You"
+description: "Choosing the Right Major for You"
+date: 2010-08-02
+image: "/western-voice/images/posts/2010/08/girl-painting.jpg"
+categories: ["Opinion"]
+authors: ["Helen Morgan"]
+tags: ["Life purpose","selecting a major"]
+draft: false
+---
+People who earn their living by being themselves have achieved the highest level of personal satisfaction. These people make life choices that offer them opportunities for growth, and they live longer because of those choices. Research conducted by Duke University found that out of 788 factors considered, the top predictor of a long life in the U.S. – even more than good health habits or good genes – was found to be work satisfaction! Choosing the right major for you requires some thoughtful planning and soul searching. There are several factors involved in reaching this decision that will lead you to your ultimate purpose in life.
+
+According to authors Kevin and Kay Marie Bennfleck, in their book “Live Your Calling” there are different levels of job satisfaction.
+
+1. The first and most common level are those who go to work, day in and day out, hating their jobs. They feel totally unconnected from their inner selves and personal satisfaction at all. Sometimes we have to endure this type of work to get the bills paid until we can get to a more desired position.
+
+2. The second level are those who have a job that they are okay with; they are comfortable enough (probably with their paycheck) to remain stuck and discontented.
+
+3. Level three is enjoyable work that people stay with for years, but still feel a lack of meaning in their life.
+
+4. Level four is meaningful work in which people feel they are contributing to a significant purpose and they have the skills to do it, but they are usually motivated by the mission of the organization they work for. Examples of this are Peace Corps workers, church secretaries, etc.
+
+5. The ultimate level, level five, is an expression of who YOU are. People who earn their living at this level merge their personal and work identities. It is the level at which we all desire deep within us. It is our life purpose.
+
+Level five doesn’t seem like such a hard goal to achieve, especially for college students who have little or no real life experience. But, unfortunately, there are many common roadblocks to achieving one’s purposed destiny.
+
+There is a girl I know, I will call her Teresa, who works as a bartender for a very lucrative restaurant. She has been with this company for over ten years, she makes great tips, and she loves the people she works with. But, she is a level three worker; she feels a great lack of meaning in her life. Teresa recently shared with me that she has always wanted to be a writer and then she immediately followed that statement with “that’s dumb, I know. I’m probably not good enough.” That said, she was ready to change the subject, but I wouldn’t let her. Fears are the number one road block to self-fulfillment and they come in all shapes and sizes. Some of the biggest ones are fear of change. We seem to view change as lack of security. So, we stay where we feel familiar; we don’t want to step out of that comfort zone. Teresa also shares a common fear of not being good enough. I gave her some ideas about how to practice her writing skills and she felt very excited and inspired when we parted. There are also those who fear success. For some reason they feel they are not worthy to achieve such happiness. When we are combating fears such as these we have to take small steps at first and focus on doing what we can to better ourselves each day. While choosing your major, consider what is in your heart to do, not just what you think you might be able to do.
+
+Another roadblock for people in achieving self-fulfillment is close-mindedness. Religious or world views are not always compatible with individual purpose. An example of this is a Caucasian gentleman, Jim, who felt a calling to be a Shiite priest in a small, backwoods area of Texas. This was NOT approved by his family (devout Catholics) or his community, but he could not deny his heart. He became a Shiite priest and set up a small trailer in his backyard for a spiritual healing practice. He didn’t have a need for a large community of followers, but people came to see him when they needed all types of physical, emotional and/or mental help. Thus, he gradually made lots of friends and he practiced his healing until he died, peacefully, twenty-some years later. He never had much money, nor did he care, and his family eventually came to respect him despite their difference of opinions. So, set aside everything that you think you know and be open to new and better things for your life.
+
+Another big roadblock is comparing yourself with others. No one is better at being you than you are. That sounds pretty silly to say, but the truth is we tend to compare ourselves with everyone else. We judge our insides with their outsides. They appear smarter, richer, prettier, etc than we are. But, people who work in self-fulfilling jobs know that comparing ourselves to others is useless and usually stems from not feeling good enough yourself. How can you not be good enough at being yourself? Just be.If you are still unsure what it is you want to do, here are some wise words from mythology scholar Joseph Campbell, “keep your mind on those moments when you feel most happy, when you are really happy – not excited, not just thrilled, but deeply happy.” When you are doing something and you lose track of time and, upon consideration, you feel a big, warm, contented glow all around you, then you will have an idea of what it is you should be doing. No one else can compare with that.
+
+Money management is another roadblock to self-fulfillment. Unless you’re rich, you’ll have to manage your money well in order to live the life you truly want to live. This requires a certain amount of sacrifice and self-discipline, especially in the early years when you are trying to establish yourself. Setting priorities is a big part of money management. What is more important right now: the $200 get away to San Diego or paying the tuition for another class leading toward your goal? The main thing is to keep your focus on achieving that goal while selecting your classes.
+
+There is nothing on earth as wonderful as doing the kind of work that makes you want to leap out of bed each morning excited to begin your day. People whose work satisfies a need deep within them to express themselves, their skills, values and uniqueness are the happiest people in the world and they live longer, too! While selecting your major, prepare for a balanced life, doing what you love to do, not what you think you can do or what others want you to do. Of course, there is always Math to get through, but sometimes you have to let life spin you around, so you can learn to live right side up!

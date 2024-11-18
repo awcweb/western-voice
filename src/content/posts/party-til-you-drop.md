@@ -1,0 +1,39 @@
+---
+title: "Party 'til you drop!?!"
+description: "Party 'til you drop!?!"
+date: 2011-03-04
+image: "/western-voice/images/posts/2011/03/drinking.jpg"
+categories: ["Opinion"]
+authors: ["Helen Morgan"]
+tags: []
+draft: false
+---
+Most people are quite aware of the short term effects of alcohol on the mind and body. That's exactly why most people drink in excess! It has a comforting effect of freeing oneself from all the stress, pain, and emotional garbage that life throws at us, even if temporarily. For a few hours we can let go and relax again. Few people who drink in excess, however, are aware of the long term effects that alcohol creates.
+
+Problem drinkers have a gene which causes an allergic reaction to alcohol with both short and long term effects. The long term effects are such a gradual, progressive and cunning confiscation of the mind and body that heavy drinkers are left, in the end, wondering what the hell happened. Recovered alcoholics and trained counselors in rehabilitation centers will often tell you, from their own experience and working with millions of others, that the end results are always the same for problem drinkers: jail, insanity or death.
+
+How to recognize if you have a drinking problem
+
+First, you might ask if you have a drinking problem. How do you know if you have one? According to the Big Book, used by the Alcoholics Anonymous (AA) organization, a drinking problem is defined as not being able to stop drinking, on a consistent basis, once you have drank one or two drinks. Problem drinkers don't have any control over how much they drink; the drink controls them. Some people don't need that statement repeated. They immediately realize they are one of them. They see the alcohol that others have left on the table next to them and are totally baffled about how they could leave without drinking it all! According to a woman in AA, whom I will call Lisa because she wishes to remain anonymous as per the traditions of the program, people who have not been drinking long find they can quit drinking after one or two, sometimes. But, sometimes they can't stop at all. "They might be able to go for months or even years at a time without drinking," she told me, "but then they go to a party and drink until they black out. That's the way I am. I'm a binge drinker. I can't promise anyone that I won't get drunk. I tried. Sometimes I could, but I broke too many promises trying. Binge drinkers are still alcoholics. The disease progresses until we are usually in the same ruts as the other alcoholics. Some people have their lives fall apart in a few months, for some it takes decades, but eventually, we're all in the same boat."
+
+College students often associate partying with alcohol. If they are problem drinkers, it is hard to comprehend even going to a party without alcohol and they will soon begin to create any excuse to have a party. Unfortunately, problem drinkers are often unwilling to stop drinking while they still can. They want to party with the others. There is some evidence, however, that those who find themselves with a drinking problem at a young age and who become willing to quit on their own, not even having one drink, have a much better chance of beating the disease than those who continue to drink. Problem drinking progressively becomes full-blown alcoholism.
+
+Unlike smoking cigarettes where you get a glimpse of the gloomy future as your hack our lungs out, alcohol convinces you that all you need is another drink and everything will be fine. In fact, another drink is the last thing a problem drinker needs since the chances are very slim that he will stop after it's gone. "Some people are hesitant to reach out for help because they are ashamed," Lisa said and then laughed." That's really funny because we humiliate ourselves all the time with all the stupid stuff we do when we're drunk and we're not ashamed to keep drinking! But, anyway, once we realize that alcoholism is nothing more than an allergy and we can improve our lives a hundred-fold by simply working the twelve step program and eliminating alcohol from our diet, I don't know anyone who is sorry they reached out for help. It's sad that alcoholism has such a stigma attached to it. People don't look down their nose at someone who is allergic to cats!"
+
+Long term consequences of alcoholic use
+
+Most of the consequences of drinking are pretty obvious: DUI's, rotted livers, relationships ripped beyond repair because of drunken fights, etc. As if these weren't bad enough, there are other long term consequences that are rarely mentioned outside of the alcoholic's realm. First, there are the gradual health issues; loss of brain functioning equivalent to that of Alzheimer patients, acceleration of the aging process, prenatal birth defects and hereditary passing of the alcoholic gene, increased rate of heart disease, not to mention the mental anguish caused to others. Then, there are the insane consequences of spending entire paychecks on partying and booze, mental disorders often requiring institutionalization, aggression, abuse and/or suicidal depression. And then, there are the jail time consequences. If all you get is a few DUI's you are lucky. Some people end up doing years of time behind bars for killing someone in a car wreck or during a drunken fight, either in a bar or at home.
+
+According to the Center for Disease Control (http://www.cdc.gov/nchs/data/nvsr/nvsr57/nvsr5714.pdf) , there were 85,000 alcohol-related deaths in 2007. An alcohol-related death most often means a victim who was in the wrong place at the wrong time when someone who was drunk crossed their path and they were killed, either by aggression or accident. Not one of these drinkers ever believed they would ever go to prison for such crimes.
+
+Talk to most any alcoholic and you will see a long pattern of destruction that resembles a tornado in the barren wasteland of their lives. "I was one of the luckier ones," Lisa said, "I didn't lose everything I had before I got help. But, what I did lose was my self-respect. It has been a long haul, but working the program has saved my life and I am so grateful for that."
+
+Alcoholism is a disease that affects people of all classes, races and faiths. From well-known, successful actors and actresses to high school students all around the world. Not a single alcoholic ever imagined their life would ever turn out as it had. "I didn't think it would ever happen to me. You know, no one aspires to be an alcoholic," Lisa said with a regretful tone. "I always wanted to be a nurse. It never happened. The alcohol took every bit of my self esteem from me. Now I don't have the health for it. Alcohol robbed me of that, too."
+
+Hope for the alcoholics
+
+Eighty-five years ago, there was little hope for the alcoholic. Fortunately, we live in an era where it is not necessary to die from this disease or become a ëwet brain' in a mental ward. Today, although there is still no cure, recovery is possible. There is a lot of help out there for anyone who wishes to stop drinking and start a better life for themselves. And, chances are, if you don't get help voluntarily (and you live long enough), the courts will eventually force you to.
+
+"Some people try to quit on their own, "Lisa said, "and they might be able to do that. Quitting drinking is easy; living happy, joyous and free is the hard part. AA teaches us how to do that. That's why so many other programs have adopted our twelve step program! It works if you work it!"
+
+For more information call the Alcoholics Anonymous hotline at 928-782-2605 or Crossroads Mission at (928) 783-9362.

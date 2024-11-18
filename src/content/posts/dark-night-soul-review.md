@@ -1,0 +1,19 @@
+---
+title: "Dark Night of the Soul Review"
+description: "Dark Night of the Soul Review"
+date: 2010-09-02
+image: "/western-voice/images/posts/2010/09/dark-night-cd-cover.jpg"
+categories: ["Arts and Culture"]
+authors: ["Chris Hammond"]
+tags: []
+draft: false
+---
+"For Legal Reasons, enclosed CD-R contains no music. Use it as you will." This is the original label from the initial release of the Dark Night of the Soul from early in 2009. The music is a collaborative effort by Danger Mouse (AKA, Brian Burton), the late Mark Linkous (Sparklehorse) and film auteur David Lynch. It was held back from the original release due to an undisclosed dispute with record label EMI. The release at the time consisted of a photo album of Lynch directed stills and a blank CD-R containing the aforementioned label with a pretty obvious hint to go on an internet Easter egg hunt for the music. For those that made the effort, kudos to you, as for the rest of us, well, it was worth the wait.
+
+The title "Dark Night of the Soul" is derived from a poem written by the 16th century Spanish poet and mystic, Saint John of the Cross. It tells of the struggles and difficulties that a soul faces on its journey from its earthly form to its final union with god. Though this album is not a direct reference to that tale, its 13 tracks can be seen as various souls on that journey.
+
+Each track seems to encompass a different perspective with varying tone and narrative coupled with a different vocalist for each. Generally, the lyrics for each song are supplied by the vocalist that appears on it, lending it a cinematic feeling of breadth. The list of guests for this album is impressive. There is Iggy Pop, Black Francis (the Pixies), Suzanne Vega, The Flaming Lips, Gruff Rhys (Super Furry Animals), Vic Chesnutt, James Mercer (The Shins) and Julian Casablancas (The Strokes). The effect of this spectrum of musical perspectives is that of a cast of characters in a film rather than the disjointed collection of tunes that one would expect from other "Various Artists" soundtracks or tribute albums.
+
+The soul of this album, however, is the music and the production. Though many of the guests perform more than just vocal duties here, the music belongs to Danger mouse and Mark Linkous. It provides the thread that runs through the entire album and supplies the cohesion that makes it complete. The sensual chord progressions and rhythms have a strong Sparklehorse edge to them and Danger Mouse's production, almost ubiquitous as of late, enhances the most colorful dimensions of each track. David Lynch, the third headliner in this act, also has a strong presence here. The accompanying photos in the CD sleeve, as well as the deluxe edition photo album, are undeniably "Lynchian" and it seems that his influence was felt by every one of the lyricists involved. That Lynch himself supplied the lyrics and vocals for two of the tracks, as well as much of the instrumentation, probably helped set the bar for all of the others to reach for. The twisted characters described in most of these songs could easily have shown up somewhere in Blue Velvet or unmade episodes of Twin Peaks.
+
+Not every performance on this album is top notch, Iggy Pop's overly contrived gothic warble comes to mind, but all of them are interesting and certainly worthy of placement here. The best pieces, like the Flaming Lips helmed Revenge and James Mercer's Insane Lullaby, rival their greatest achievements from their own catalogs. If you like any of the work from any one of the people involved in this project, then this album should be in your collection, it is an achievement. That it finally got released apparently was an achievement in itself.

@@ -1,0 +1,35 @@
+---
+title: "The Chinese dragon"
+description: "The Chinese dragon"
+date: 2015-10-14
+image: "/western-voice/images/posts/2015/10/10-11good-morning-dragonblack.jpg"
+categories: ["Arts and Culture"]
+authors: ["Ning Wei Wang"]
+tags: ["International Student","Chinese Food","Chinese culture"]
+draft: false
+---
+By Ning Wei Wang
+
+An old saying in China is that 'carps lead to the dragon's door '. It means that if the carps are able to jump over the door, they will become the new dragon; if they cannot, they will always be fish.
+
+These ancient proverbs and legends have encouraged millions of Chinese to be enthusiastic and to work hard in order to eventually become the dragon in the Chinese heart. The Chinese dragon, perhaps the most famous animal in history, is a symbol of the culture and nation. Nowadays, even with the development of new technology and science, every generation of Chinese students still called themselves
+
+the descendants of the dragon. Because of the three important reasons, the Chinese dragon is surely the most popular and famous icon in China.
+
+First, as an imaginary animal in ancient times, the Chinese dragon has easily become the people's symbol for hope and a bright future. One trait of the Chinese dragon is that it has parts of the horse, the cow, the snake and all the animals in people's lives. In fact, during a low period in the Chinese feudal society, when the people experienced many difficulties as farmers, they naturally asked for help from nature, and they wanted to create the familiar animals to help them solve those problems. For example, droughts had been with Chinese for centuries, and it was the animals that could make the clouds and rains that the Chinese craved.
+
+During the middle of Tang Dynasty, greater disaster and troubles frequently came into their lives. For the ancient Chinese, happiness and enjoyment were found in having enough food, staying with the family members and getting good sleep. But the drought lasted many years, many people died of hunger and cold. Finally, a big Chinese dragon opened his big mouth and made rain to save the lives of all the people. The relationship between the big dragon and the Chinese is similar to the patron and the people on the earth. After the big rain, most of the Chinese people had enough food to eat and to save their lives, so the Chinese emperor named the day of the Rain in the Year of Dragon Head as a festival to honor the rainy dragon.
+
+The second important reason why the dragon became the most popular icon in Chinese history came from how the dragon culture and the Chinese traditional food culture came together and interacted with each other in surprising ways. Almost every festival has its special food to commemorate the history. For example, after the rainy festival, people needed to eat the traditional food, "fine noodles". Using flour and salt as the main ingredients, the cooks began to make the noodles as long as the dragon whiskers.
+
+Although some have argued that the fine noodles could not have had a 1,000-year history, historians have found the ancient food records of the Tang Dynasty to prove that noodles and the Chinese dragon were in the same time. Long before every generation of Chinese children were able to go to school to study Chinese history and literature, they got their information and communicated with each other by eating the fine noodles and listening to the Chinese dragon history. Essentially, the Chinese dragon, with its mysterious, special and interesting features, was invented thousands of years ago and has been used as one of the important parts of the Chinese culture.
+
+Finally, one of the main branches of Chinese traditional philosophy, the Confucians, has had a strong relationship with the Chinese dragon culture. The question involved whether the Chinese emperors had held their great power over the country from the Chinese dragon culture; this thought of Confucians is a complex issue that has included 2,000 years and billions of people. For example, in ancient China, for thousands of years emperors thought their families.
+
+Dear Arizona Western Community,I am from Beijing, one of the old cities in China, which has a thought-provoking history. There are a lot of restaurants and places which were built in the center of Beijing about 600 years ago. During our meals in these restaurants, we can share our experience in our childhood, talk about folk stories or listen to ideas we have never heard before.Writing articles on these topics and listening to the inner voice from my heart helps me to understand the soul of despair and loneliness, and this is the spirit of a martyr. I want to be a writer because many new precious ideas are found by virtue of my own writing and traveling rather than the knowledge gotten from the books.
+
+Actually, the essence of the martyr is destruction, which is the preface to rebirth. Furthermore, the process of writer's life is a sequence of overcoming great difficulties and of rebuilding belief in and improving our ability.It is clear to see that a lot of Chinese teenagers are becoming more greedy. They have almost forgotten their history and culture, and as a writer I feel the need to wake them up. Before this more modern Chinese philosophy appeared, there was a spirit that recognized the essence of the traditional culture. We learned about folk heroes from our text book.What is the definition of a martyr? The ending of life is an important process of bodily destruction, just like the burning of a candle. If all of energy is destroyed by working for true belief and virtue, there should be nothing left to earn money or otherwise advance one's own needs.I can give up anything except writing. I would not only examine the stories and culture carefully, but also get the great power from my soul and heart. As a result, I might come to know the real meaning of belief and the power of faith. At the end of life, when I completed the transition from teenager to senior, I could tell my son that everything is done and give up my life without regret. Over time, the process of achieving balance originates from the complete understanding the relationship between our life and the soul of writing.
+
+I strongly believe that writers are important parts of the martyr's family. In fact, the spirit of a writer was integrating into my blood, my tears and my life. Sharing stories, writing journals and tasting different cuisines all require a person to spend all his time and energy. I love writing! I love Chinese culture and history!
+
+Talking with the cooks and listening to their speech carefully has allowed me to achieve a strong sense of historical mission because I am not yet clear on how to be a good writer. The Chinese always use old sayings like, "A teacher for a day is a father for lifetime" to describe the importance of listening to one's teachers and keeping them in our hearts.Thank you sharing the experience of my work!

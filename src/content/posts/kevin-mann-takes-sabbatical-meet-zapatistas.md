@@ -1,0 +1,25 @@
+---
+title: "Kevin Mann takes sabbatical to meet Zapatistas"
+description: "Kevin Mann takes sabbatical to meet Zapatistas"
+date: 2010-04-13
+image: "/western-voice/images/posts/2010/04/kevin-mann-art-womans-mask.jpg"
+categories: ["News"]
+authors: ["Western Voice Staff"]
+tags: []
+draft: false
+---
+“If you saw the movie Avatar, the blue people (Na’vi) are like Zapatistas,” Professor Kevin Mann explained to me after some perplexity about the life style of the indigenous people he stayed with during a five month sabbatical. The Zapatistas stand up against globalization just like the Na’vi stood up against the humans trying to mine under their tree of souls. The tree, for the Zapatistas represents a 500 year culture of language and beliefs rooted in the Mayan religion.
+
+Kevin Mann doing dishes in Oventic. Photo by Mann.
+
+Kevin Mann, ESL Professor at AWC for ten years, applied for a sabbatical to study Spanish and the origins of Spanish speaking students. Mann’s sabbatical extended to three places in the southernmost states of Mexico: Oaxaca City in the state of Oaxaca, Oventic and San Cristobal de las Casas, which are Zapatista territories in the state of Chiapas.
+
+Mann, a former mayor from his native Canadian town, found it hard to adjust to the Zapatistas despite his European background that taught him a democratic philosophy that honors people’s participation in social, economical and political lives. The political arena for the Zapatistas is totally foreign to our westernized thinking. The leader is collectively chosen rather than voted in and there aren’t any salaries for leaders. The leaders live off what they have saved or donations. They are a peaceful band of people who, in 1994 hours after the signing of the North American Free Trade Agreement (NAFTA), declared war against the Mexican state and globalization in general, though this war has been nonviolent and defensive against any kind of military or corporate incursions on their territory. The nonviolent protest of NAFTA gained the Zapatistas substantial international attention and support which endowed them with the leverage they needed, so they are basically left in peace.
+
+They have very strict restrictions about who is allowed into their community and they do not allow anyone to leave. From his make-shift bed of a piece of plywood atop two saw horses, Mann learned that the Zapatistas do not allow subsidies; they are totally self-sufficient. They do this to protect their culture and their ways from outside influences and to protect their people from violent intruders.
+
+As they crowded around Mann in awe to watch him shave on a table outside his hut (true indigenous people do not grow facial hair) he learned that they wear masks to cover their face from outsiders and refuse to allow full face photographs to be taken of them. Some argue that they must have something to hide if they wear masks. But, Mann explained it by saying, “They see themselves as faceless people putting on masks to have a face.” We tend to think in Westernized terms, but they have very different reasons and methods than we are use to. According toWikipedia, their ideology combines libertarian socialism and municipalism with indigenous Mayan political thought. They seek only to have indigenous control over their own local resources, especially land.
+
+The Zapatistas sole focus is on a simple way of life that is beneficial to everyone in the community. “The Zapatistas grow as a part of community rather than as individuals. They believe that individualism is less than you can be,” Mann explained. They collectively make decisions and everything is collectively owned, even the shops. Although they are considered poor by our standards, no one ever goes hungry or is homeless. Medical care, both Mayan and westernized, are available to everyone. There isn’t a conventional law system as we know it among the Zapatistas because the crime rate is non-existent. There aren’t any drugs or alcohol, nor is there loneliness, boredom or suicidal depression. They live in peaceful unity with each other and are quite happy. After his stay with the Zapatistas, Mann said he would like to see our government calm its ideologies. The Zapatistas don’t try to show other people how or what to do. They believe “we all have to find our own way that works.”
+
+On the last day of his visit, while saying his goodbyes, a Zapatista teacher told Mann, “we know that it is quite possible that we will die for what we believe in.” This is a very powerful statement, but if we keep in mind that Gandhi stopped the British Empire through non-violence, ‘Zapatizmo’ (as they call their philosophy) just might work. If you would like to learn more about the Zapatista’s and southern Mexico from Professor Mann, you are welcome to join the class he is offering on Tuesday, April 6, he will be in the San Luis Learning Center (the new building), room 108 at 6 pm. On Wednesday, April 7, he will be in SLLC, room 102, at 1:40 pm.
