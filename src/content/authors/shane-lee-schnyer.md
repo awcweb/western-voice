@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Shane Lee Schnyer
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Shane Lee Schnyer
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

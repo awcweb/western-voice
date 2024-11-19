@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Katarina Torres
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Katarina Torres
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

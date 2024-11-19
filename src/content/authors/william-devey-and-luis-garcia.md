@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: William Devey and Luis Garcia
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: William Devey and Luis Garcia
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

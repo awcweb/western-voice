@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Ramon Flores
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Ramon Flores
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

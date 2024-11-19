@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Valeria Villavicencio
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Valeria Villavicencio
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Susana Osuna
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Susana Osuna
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

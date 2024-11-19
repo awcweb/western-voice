@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Jennette Blair
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Jennette Blair
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

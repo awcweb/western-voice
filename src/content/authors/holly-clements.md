@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Holly Clements
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Holly Clements
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

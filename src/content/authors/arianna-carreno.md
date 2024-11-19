@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Arianna Carreno
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Arianna Carreno
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

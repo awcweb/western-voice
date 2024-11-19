@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Mia Aguirrebarrena
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Mia Aguirrebarrena
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

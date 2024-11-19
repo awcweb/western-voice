@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Valery J. Pastrana
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Valery J. Pastrana
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

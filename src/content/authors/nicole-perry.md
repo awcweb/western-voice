@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Nicole Perry
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Nicole Perry
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

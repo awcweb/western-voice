@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Mario D. Gonzalez
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Mario D. Gonzalez
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

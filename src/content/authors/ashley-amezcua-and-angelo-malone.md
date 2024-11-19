@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Ashley Amezcua and Angelo Malone
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Ashley Amezcua and Angelo Malone
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

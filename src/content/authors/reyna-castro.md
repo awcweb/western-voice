@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Reyna Castro
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Reyna Castro
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

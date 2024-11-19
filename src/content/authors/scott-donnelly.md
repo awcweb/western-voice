@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Scott Donnelly,
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Scott Donnelly,
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

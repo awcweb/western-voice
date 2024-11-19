@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Will Swindling
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Will Swindling
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Mayra Vasquez
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Mayra Vasquez
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

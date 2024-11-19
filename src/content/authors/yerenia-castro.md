@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Yerenia Castro
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Yerenia Castro
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

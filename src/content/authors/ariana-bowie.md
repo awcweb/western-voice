@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Ariana Bowie
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Ariana Bowie
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Damaris V. Ruiz
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Damaris V. Ruiz
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

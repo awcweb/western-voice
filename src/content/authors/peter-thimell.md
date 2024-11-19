@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Peter Thimell
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Peter Thimell
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Michael J. Miller
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Michael J. Miller
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

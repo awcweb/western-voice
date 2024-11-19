@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Jorge Montiel
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Jorge Montiel
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Ana Sanchez
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Ana Sanchez
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Erin E. Natseway
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Erin E. Natseway
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

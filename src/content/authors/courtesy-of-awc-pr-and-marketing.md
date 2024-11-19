@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Courtesy of AWC PR and Marketing
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Courtesy of AWC PR and Marketing
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

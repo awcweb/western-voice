@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Lieren Hefner
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Lieren Hefner
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

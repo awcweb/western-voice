@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Lizzie Madrona Renaud, professor of Early Childhood Education
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Lizzie Madrona Renaud, professor of Early Childhood Education
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

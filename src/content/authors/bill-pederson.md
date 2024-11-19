@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Bill Pederson
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Bill Pederson
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

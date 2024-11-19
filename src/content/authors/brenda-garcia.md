@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Brenda Garcia
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Brenda Garcia
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

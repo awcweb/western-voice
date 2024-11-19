@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Nayeli Avendaño
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Nayeli Avendaño
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

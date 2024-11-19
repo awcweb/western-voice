@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Mariah Busko
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Mariah Busko
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

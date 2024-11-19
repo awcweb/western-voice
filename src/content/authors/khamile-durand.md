@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Khamile Durand
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Khamile Durand
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

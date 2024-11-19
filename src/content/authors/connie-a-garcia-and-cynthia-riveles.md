@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Connie A. Garcia and Cynthia Riveles
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Connie A. Garcia and Cynthia Riveles
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

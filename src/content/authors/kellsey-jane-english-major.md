@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Kellsey Jane, English major
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Kellsey Jane, English major
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

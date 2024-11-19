@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Alejandro Garza
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Alejandro Garza
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

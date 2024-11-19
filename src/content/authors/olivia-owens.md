@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Olivia Owens
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Olivia Owens
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Kamau Farrell-Burke
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Kamau Farrell-Burke
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

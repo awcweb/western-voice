@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Jesus Mendez
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Jesus Mendez
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

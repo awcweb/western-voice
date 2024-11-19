@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Western Voice
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Western Voice
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

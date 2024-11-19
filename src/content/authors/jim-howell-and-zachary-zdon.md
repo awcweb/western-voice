@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Jim Howell and Zachary Zdon
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Jim Howell and Zachary Zdon
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

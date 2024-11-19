@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Sonia Gaytan
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Sonia Gaytan
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

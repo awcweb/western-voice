@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Lori Stofft
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Lori Stofft
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

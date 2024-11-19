@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Torri Brown
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Torri Brown
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

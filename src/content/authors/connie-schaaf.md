@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Connie Schaaf
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Connie Schaaf
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

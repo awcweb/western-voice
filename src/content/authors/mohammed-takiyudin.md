@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Mohammed Takiyudin 
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Mohammed Takiyudin 
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

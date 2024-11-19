@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Javier De Santiago
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Javier De Santiago
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

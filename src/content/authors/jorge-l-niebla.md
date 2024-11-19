@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Jorge L. Niebla
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Jorge L. Niebla
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

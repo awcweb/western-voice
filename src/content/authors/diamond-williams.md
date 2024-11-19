@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Diamond Williams 
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Diamond Williams 
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

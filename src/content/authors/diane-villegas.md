@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Diane Villegas
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Diane Villegas
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

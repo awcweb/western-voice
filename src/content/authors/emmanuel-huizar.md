@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Emmanuel Huizar
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Emmanuel Huizar
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

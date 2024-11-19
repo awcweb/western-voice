@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: La Paz Services
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: La Paz Services
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

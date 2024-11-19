@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Eric Daniels
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Eric Daniels
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

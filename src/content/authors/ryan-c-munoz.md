@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Ryan C. Munoz
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Ryan C. Munoz
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

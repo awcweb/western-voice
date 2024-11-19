@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Alejandra Calderon
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Alejandra Calderon
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

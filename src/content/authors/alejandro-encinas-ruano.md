@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Alejandro Encinas Ruano
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Alejandro Encinas Ruano
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

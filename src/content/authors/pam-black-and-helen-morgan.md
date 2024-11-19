@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Pam Black and Helen Morgan
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Pam Black and Helen Morgan
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

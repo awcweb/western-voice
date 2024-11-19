@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Richard McDonnell
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Richard McDonnell
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

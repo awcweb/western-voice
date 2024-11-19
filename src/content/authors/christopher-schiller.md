@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Christopher Schiller
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Christopher Schiller
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

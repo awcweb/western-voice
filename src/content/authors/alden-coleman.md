@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Alden Coleman
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Alden Coleman
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

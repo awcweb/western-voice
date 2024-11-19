@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: AWC Publicity and Marketing
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: AWC Publicity and Marketing
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

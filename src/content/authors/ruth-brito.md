@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Ruth Brito
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Ruth Brito
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

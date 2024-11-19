@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Cassidy Tinch
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Cassidy Tinch
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Larry Davis
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Larry Davis
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

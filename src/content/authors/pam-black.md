@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Pam Black
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Pam Black
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

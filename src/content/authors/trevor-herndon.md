@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Trevor Herndon
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Trevor Herndon
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

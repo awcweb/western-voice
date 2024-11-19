@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Admir Balicevac
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Admir Balicevac
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

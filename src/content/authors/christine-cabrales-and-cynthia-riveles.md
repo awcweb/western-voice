@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Christine Cabrales and Cynthia Riveles
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Christine Cabrales and Cynthia Riveles
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Alfredo Prieto
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Alfredo Prieto
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Student Mathematic League
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Student Mathematic League
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

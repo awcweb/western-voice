@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Kate Turpin
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Kate Turpin
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

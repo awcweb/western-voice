@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Brett Worsencroft
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Brett Worsencroft
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

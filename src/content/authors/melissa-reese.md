@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Melissa Reese
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Melissa Reese
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

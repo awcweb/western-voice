@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: ASU-AWC joint press release
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: ASU-AWC joint press release
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

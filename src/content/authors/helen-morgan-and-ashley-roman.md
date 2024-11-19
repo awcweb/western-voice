@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Helen Morgan and Ashley Roman
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Helen Morgan and Ashley Roman
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

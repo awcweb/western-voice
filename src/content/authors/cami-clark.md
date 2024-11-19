@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Cami Clark
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Cami Clark
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

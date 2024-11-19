@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Alexa Leon
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Alexa Leon
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Brian Cedillo
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Brian Cedillo
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

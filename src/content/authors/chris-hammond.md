@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Chris Hammond
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Chris Hammond
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

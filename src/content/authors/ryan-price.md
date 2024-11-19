@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Ryan Price
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Ryan Price
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

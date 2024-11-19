@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Thaddeus Graczyk
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Thaddeus Graczyk
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Estrella Rodriguez-Northcutt
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Estrella Rodriguez-Northcutt
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

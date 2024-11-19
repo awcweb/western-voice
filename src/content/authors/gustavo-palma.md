@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Gustavo Palma 
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Gustavo Palma 
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

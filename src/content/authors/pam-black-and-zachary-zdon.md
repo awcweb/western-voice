@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Pam Black and Zachary Zdon
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Pam Black and Zachary Zdon
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

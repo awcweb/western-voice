@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Cecilia Vigil
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Cecilia Vigil
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

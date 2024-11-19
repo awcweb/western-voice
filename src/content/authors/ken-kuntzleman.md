@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Ken Kuntzleman
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Ken Kuntzleman
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

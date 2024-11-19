@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Tamar Gilliam
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Tamar Gilliam
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

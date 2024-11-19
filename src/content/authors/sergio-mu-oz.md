@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Sergio MuÒoz
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Sergio MuÒoz
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

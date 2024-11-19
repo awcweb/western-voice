@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Alejandro Encinas and Pam Black
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Alejandro Encinas and Pam Black
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

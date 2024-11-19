@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Emmanuel Santoyo
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Emmanuel Santoyo
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

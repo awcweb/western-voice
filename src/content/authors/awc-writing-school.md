@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: AWC Writing School
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: AWC Writing School
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

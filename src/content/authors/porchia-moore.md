@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Porchia Moore
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Porchia Moore
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

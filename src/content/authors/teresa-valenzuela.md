@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Teresa Valenzuela
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Teresa Valenzuela
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

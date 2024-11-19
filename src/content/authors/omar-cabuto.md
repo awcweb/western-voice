@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Omar Cabuto
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Omar Cabuto
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

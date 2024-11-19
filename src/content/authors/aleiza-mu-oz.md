@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Aleiza Muñoz
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Aleiza Muñoz
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

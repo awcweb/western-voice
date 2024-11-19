@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: Jonathan Herrera
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: Jonathan Herrera
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern

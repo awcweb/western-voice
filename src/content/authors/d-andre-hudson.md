@@ -1,7 +1,7 @@
 ---
-title: Genesis Alvarado
+title: D'Andre Hudson
 image: /western-voice/images/authors/author-avatar.png
-description: Genesis Alvarado
+description: D'Andre Hudson
 social:
   facebook: https://www.facebook.com/ArizonaWesternCollege/
   twitter: https://twitter.com/ArizonaWestern
