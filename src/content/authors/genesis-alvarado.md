@@ -1,6 +1,6 @@
 ---
 title: Genesis Alvarado
-image: /western-voice/images/authors/mark-dinn.jpg
+image: /western-voice/images/authors/author-avatar.png
 description: this is meta description
 social:
   facebook: https://www.facebook.com/
